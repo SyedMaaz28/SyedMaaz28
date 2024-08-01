@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Syed Maaz</h1>
-<h3 align="center">A passionate Tech & Emerging Tools Entuhsiast </h3>
+<h3 align="center">A passionate Tech & Emerging Tools Enthusiast</h3>
 
-<p align="left"> <a href="https://twitter.com/maazz_sd" target="blank"><img src="https://img.shields.io/twitter/follow/maazz_sd?logo=twitter&style=for-the-badge" alt="maazz_sd" /></a> </p>
 
-- 🌱 I’m currently learning **Emerging Tools & Technology related to Tech**
+- 🌱 I’m currently learning **Emerging Tools related to Tech**
 
 - 📫 How to reach me **syedsam7676@gmail.com**
 
-- ⚡ Fun fact :  **Sarcastic**
+- ⚡ Fun fact : **Sarcastic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
