@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syed Maaz</h1>
+<h1 align="center">Hi 👋 I'm Syed Maaz aka Moody </h1>
 <h3 align="center">A passionate Tech & Emerging Tools Enthusiast</h3>
 
 
